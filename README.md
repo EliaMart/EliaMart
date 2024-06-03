@@ -1,5 +1,3 @@
-# eliaMartinez
-
 ![Header image](eliaBanner.png)
 
 <a href="mailto:eliahaydeemartinez@gmail.com">![eliahaydeemartinez@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
